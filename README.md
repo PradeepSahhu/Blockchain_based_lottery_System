@@ -1,6 +1,7 @@
 
 
-![blockchain](https://github.com/PradeepSahhu/Blockchain_based_lottery_System/assets/94203408/00b7317f-c110-4949-af9a-244ce3b7b7f7)
+![blockchain](https://github.com/PradeepSahhu/Blockchain_based_lottery_System/assets/94203408/2758a504-972f-4299-aa01-22dbd24f8ca6)
+
 
 # Blockchain Based lottery system 
 Requirements : 
