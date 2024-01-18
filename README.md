@@ -1,4 +1,7 @@
 
+
+![blockchain](https://github.com/PradeepSahhu/Blockchain_based_lottery_System/assets/94203408/00b7317f-c110-4949-af9a-244ce3b7b7f7)
+
 # Blockchain Based lottery system 
 Requirements : 
 - React.js
@@ -12,5 +15,7 @@ This is obviously unfair as that may lead to unfair practices.
 
 The project mainly solves the problem of unpaid entering into the lottery system. As the participant must pay a minimum amount to enter into the lottery. 
 The lottery manager doesn't have any access to the system EXCEPT that the process of choosing the winner can ony be initiated by him. But he can't decide who will be the winner.
+
+
 
 
